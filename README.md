@@ -1,8 +1,8 @@
 Wordpress 5.5 - WooCommerce 4.4
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unzip the archive.
+Then follow the attached instructions.
 
-Разрабатывался на версии CMS Wordpress 5.5 - WooCommerce 4.4
+Support for CMS Wordpress 5.5 - WooCommerce 4.4
